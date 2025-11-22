@@ -73,7 +73,7 @@ const Hero = () => {
           />
 
           {/* Mini Payment Card */}
-          <div className="absolute -right-10 top-16 bg-white shadow-xl rounded-xl p-5 w-64 border z-20">
+          <div className="absolute -right-10 top-16 bg-white shadow-xl rounded-xl p-5 w-64 border z-5">
             <p className="text-sm text-gray-700">Body Lotion</p>
             <p className="text-xl font-semibold mt-2">₹ 455</p>
 
